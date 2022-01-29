@@ -1,4 +1,4 @@
-# Implement of Range List
+# Implementation of Range List
 
 > author: Jiale Dai
 >
